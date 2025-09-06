@@ -1,0 +1,5 @@
+{
+  "name": "Juego de Reacción de Señales de Tránsito",
+  "description": "Un juego de reacción de ritmo rápido en el que los jugadores deben responder rápidamente a las señales de tránsito que se muestran en la pantalla. Pon a prueba tus reflejos y compite por la puntuación más alta.",
+  "requestFramePermissions": []
+}
